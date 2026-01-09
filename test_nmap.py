@@ -1,3 +1,6 @@
+# Author: Adam Benjamin (https://github.com/abenjamin8)
+# Project: python-nmap-scanner
+
 import nmap
 
 scanner = nmap.PortScanner()
